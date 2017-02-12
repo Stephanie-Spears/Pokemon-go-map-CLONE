@@ -1,0 +1,11 @@
+BROWSER KEY 1
+
+AIzaSyDErOoc_X0ELGVckh1LSSGWQkotVRieaL8
+
+
+
+http://localhost:5000/#
+
+
+
+python ./runserver.py -a ptc -u "testredtest7" -p "gogogojira123" -l "portland, oregon" -st 3 -k "AIzaSyDErOoc_X0ELGVckh1LSSGWQkotVRieaL8"
